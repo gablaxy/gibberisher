@@ -1,2 +1,2 @@
-# random_word
-Random word generator
+# gibberisher
+Gibberish generator
